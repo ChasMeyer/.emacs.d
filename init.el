@@ -18,7 +18,9 @@
    (quote
     ("d6922c974e8a78378eacb01414183ce32bc8dbf2de78aabcc6ad8172547cb074" default)))
  '(inhibit-startup-screen t)
- '(package-selected-packages (quote (slack magithub magit cyberpunk-theme))))
+ '(package-selected-packages
+   (quote
+    (better-defaults slack magithub magit cyberpunk-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
