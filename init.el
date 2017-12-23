@@ -41,3 +41,20 @@
                   (tramp-file-name-host (car target-alist)))
             "THISSHOULDNEVERMATCH")
        "\\`root\\'" "/ssh:%h:"))
+
+;; Place backups in the system temp directory instead of the original file's location
+(setq backup-directory-alist
+          `((".*" . ,temporary-file-directory)))
+    (setq auto-save-file-name-transforms
+          `((".*" ,temporary-file-directory t)))
+
+;; IDO-Mode all the things!!!
+(setq ido-enable-flex-matching t)
+(setq ido-everywhere t)
+(ido-mode 1)
+
+;; Enable all the MagitHub features
+(require 'magithub)
+(magithub-feature-autoinject t)
+
+			 
