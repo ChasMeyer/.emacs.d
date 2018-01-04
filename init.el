@@ -60,3 +60,4 @@
 (magithub-feature-autoinject t)
 
 			 
+(load-theme 'cyberpunk t)
