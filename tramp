@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <17/12/23 08:25:57 /Users/cmeyer/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <17/12/30 22:34:16 /Users/cmeyer/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -18,10 +18,13 @@
   ("gid-integer" 0)
   ("gid-string" "root")
   ("file-exists" "test -e")
-  ("~root" "/root"))
- (["sudo" "cmeyer" "54.242.139.151" nil nil]
+  ("~root" "/root")
+  ("git" "\\git"))
+ (["scp" nil "sudo" nil nil]
   nil)
  (["ssh" nil "54.242.139.151" nil nil]
   nil)
- (["scp" nil "sudo" nil nil]
+ (["sudo" "root" "ssh" nil nil]
+  nil)
+ (["scp" nil "ssh" nil nil]
   nil))

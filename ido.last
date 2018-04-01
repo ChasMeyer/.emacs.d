@@ -1,0 +1,47 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/sudo:54.242.139.151:/home/" . "cmeyer/")
+ ("/sudo:54.242.139.151:/" . "home/")
+ ("/Users/cmeyer/src/" . "message_parser/")
+ ("/Users/cmeyer/" . "Blade Runner 2049.HDRip.XviD.AC3-EVO/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/cmeyer/"
+ "/sudo:root@54.242.139.151:/home/cmeyer/"
+ "/sudo:54.242.139.151:/home/cmeyer/"
+ "/Users/cmeyer/Blade Runner 2049.HDRip.XviD.AC3-EVO/"
+ "/Users/cmeyer/src/message_parser/"
+ "/Users/cmeyer/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "bbm_on_sslp_stall"
+ "vid_sorter.rb"
+ "s3_importer.sh"
+ "Blade Runner 2049.HDRip.XviD.AC3-EVO.nfo"
+ "main.go"
+ ".gitignore"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/cmeyer/.emacs.d/" (23208 17174 335949 605000) "magithub/" ".git/" "elpa/" "request/" ".gitignore" "README.md" "init.el" "auto-save-list/" "tramp" "ido.last" "../" "./")
+
+ ("/Users/cmeyer/" (23223 39251 848866 507000) "cialis.rtf" "src/" ".appletviewer" ".emacs.old" "Meyer_Charles_certificate.pdf" ".viminfo" ".bash_history" "gnupg/" ".gitconfig" ".aws/" ".cache/" "Downloads/" "631E0829 Revoke certificate.asc" ".oh-my-zsh/" ".cd_log" ".Xauthority" ".zcompdump-panther-5.2" ".cd_log~" ".gem/" ".dvdcss/" "CS5_serials" ".m2/" ".mysql_history" "cmeyerpanther.pem" "button-1.pem.key" "Documents/" ".zcompdump-panther-5.3" ".dcm2niigui/" "loss_prevention_files.tar.gz" "button-1.private.pem.key" ".Trash/" "Desktop.tar" "mag_stripe" "chas.pem" "Dropbox/" ".emacs~" ".zsh-update" "freqs" "Applications/" "mag_stripe_2" ".vimrc" "Movies/" ".ssh/" "paging_freqs.rtf" "StoneRivereLearning.Google.Go.Programming.for.Beginners.Golang-iNKiSO/" "work/" "admail.tgz" ".wireshark/" ".chirp/" "PLURALSIGHT.GETTING.STARTED.WITH.JENKINS.2-JGTiSO/" ".dropbox/" "Public/" ".mplayer/" ".iterm2/" "credentials.csv" ".emacs.d.old/" ".lein/" ".sqlite_history" "google_cloud/" ".zcompdump-panther-5.0.8" ".cups/" "default_wallet" "README.md" ".emacs.d/" "mbox" "google-cloud-sdk/" "order.rtf" ".oracle_jre_usage/" ".lesshst" "sent" "Library/" "Surgery.tar" "Desktop/" "hpe" "old/" ".iterm2_shell_integration.zsh" ".p2/" "prowl_login.txt" ".zsh_history" ".boto" "paging_11df_02.pdf" ".rnd" "freq" ".authinfo" "PLURALSIGHT.FILE.STORAGE.USING.AWS.S3.AND.GLACIER.DEVELOPER.DEEP.DIVE-JGTiSO/" ".ncftp/" "id_rsa.pub" "book.txt" ".zshrc.backup" ".irssi/" "Pictures/" "button-1.pem.key.crt" "cmeyer.bak.0" ".local/" "PACKT_PUBLISHING_MODERN_GOLANG_PROGRAMMING_TUTORIAL-OXBRiDGE/" ".zshrc" "baofeng1.img" "civ serial:download numbers.rtf" "anarch/" ".jssc/" "out/" "bin/" ".tooling/" ".wget-hsts" ".CFUserTextEncoding" "Adrienne Surgery/" "awscli-bundle/" "VirtualBox VMs/" ".electrum/" ".zshrc~" ".gnupg/" "eclipse/" "wreck-5:31.rtf" ".DS_Store" "go/" "Documents.tar" ".gsutil/" ".docker/" "Revoke.tar" "emacs.tar" "certificate.asc.tar" "pem" "chasIP.ctb" "Music/" ".config/" ".eclipse/" ".emacs.blah" ".zcompdump-panther-5.0.5" ".packer.d/" ".zshrc-e" "../" "./")
+
+ ("/Users/" (22985 36805 220201 396000) "cmeyer/" "Guest/" "ameyer/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/cmeyer/Blade Runner 2049.HDRip.XviD.AC3-EVO/" (23109 24169 725306 415000) "sample.avi" "Subtitles/" "Blade Runner 2049.HDRip.XviD.AC3-EVO.nfo" "Blade Runner 2049.HDRip.XviD.AC3-EVO.avi" ".DS_Store" "../" "./")
+
+ ("/Users/cmeyer/src/message_parser/" (23103 64887 827148 591000) "main.go" "../" "./")
+
+ ("/Users/cmeyer/src/" (23103 64882 41007 239000) "message_parser/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

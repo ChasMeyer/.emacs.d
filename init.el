@@ -20,7 +20,7 @@
  '(inhibit-startup-screen t)
  '(package-selected-packages
    (quote
-    (better-defaults slack magithub magit cyberpunk-theme))))
+    (helm-go-package go-gopath go-direx go-complete go-autocomplete go-add-tags flycheck-gometalinter flycheck company-shell company-go company better-defaults slack magithub magit cyberpunk-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
